@@ -1,5 +1,4 @@
 # Movie Trailer Website
----------
 
 ####Project Specifications
   1. Server-side code to store movies data:
