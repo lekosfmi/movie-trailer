@@ -6,6 +6,8 @@
   - summary
   - poster image
   - trailer
+  - 
+  
   2. - Display the movies on a static web page generated with the server-side codes.
      - Users can click on the movie to watch the trailer of the selected movie.
 
