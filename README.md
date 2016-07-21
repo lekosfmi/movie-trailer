@@ -1,15 +1,14 @@
 # Movie Trailer Website
 
 ####Project Specifications
-  1. Server-side code to store movies data:
+1. Server-side code to store movies data:
     - movie title
     - summary
     - poster image
     - trailer
-  
 
-  2. - Display the movies on a static web page generated with the server-side codes.
-     - Users can click on the movie to watch the trailer of the selected movie.
+2. Display the movies on a static web page generated with the server-side codes.
+3. Users can click on the movie to watch the trailer of the selected movie.
 
 ####Quick Start:
   1. Unzip the project folder: movies
