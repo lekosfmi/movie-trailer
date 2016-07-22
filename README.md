@@ -10,16 +10,21 @@
 2. Display the movies on a static web page generated with the server-side codes.
 3. Users can click on the movie to watch the trailer of the selected movie.
 
-####Quick Start:
+####Quick Start
   1. Unzip the project folder: movies
   2. Double click on fresh_tomatoes.html to open up the web page
 
-####Slow Start:
+####Slow Start
   1. Unzip the project folder: movies
   2. Open the Terminal App on a Mac or Command Line on a Window
   3. Navigate to the root of the movie directory
   4. Make sure Python (2.7) is installed on your computer.
   5. Run: ```python entertainment_center.py```
 
+####Build
+- Website is deployed with [Sinatra](http://www.sinatrarb.com/)
+- Hosting is with [Heroku](https://dashboard.heroku.com/)
+- Original code developed using Python
+ 
 -------
 © 2016 Vanielle Le
