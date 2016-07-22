@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-Website is located at [movies.lekosfmi.com](movies.lekosfmi.com)
+Website is located at [movies.lekosfmi.com](http://movies.lekosfmi.com)
 
 ####Project Specifications
 1. Server-side code to store movies data:
