@@ -12,14 +12,14 @@ Website is located at [movies.lekosfmi.com](movies.lekosfmi.com)
 2. Display the movies on a static web page generated with the server-side codes.
 3. Users can click on the movie to watch the trailer of the selected movie.
 
-####Slow Start
+####Manual Build
   1. Fork the project
   2. Clone it to /your-folder-name
-  3. Navigate to the root of the movie directory
+  3. Navigate to the root of the project's directory
   4. Make sure Python (2.7) is installed on your computer.
   5. Run: ```python python/entertainment_center.py```
-
-####Build
+  
+####Stack
 - Website is deployed with [Sinatra](http://www.sinatrarb.com/)
 - Hosting is with [Heroku](https://dashboard.heroku.com/)
 - Original code developed using Python
