@@ -25,4 +25,4 @@ Website is located at [movies.lekosfmi.com](http://movies.lekosfmi.com)
 - Original code developed using Python
  
 -------
-© 2016 Vanielle Le
+© Vanielle Lee
